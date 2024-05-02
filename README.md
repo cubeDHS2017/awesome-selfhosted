@@ -1423,6 +1423,7 @@ Software for [monitoring](https://en.wikipedia.org/wiki/Monitoring#Computing) sy
 
 _Related: [Wikis](#wikis)_
 
+- [Anytype](https://anytype.io/) - An open source note taking tool with colaboration features (alternative to Notion). ([Source Code](https://github.com/anyproto)) `MIT` `Go/Docker`
 - [Benotes](https://benotes.org/) - An open source self hosted notes and bookmarks taking web app. ([Source Code](https://github.com/fr0tt/benotes)) `MIT` `PHP/Docker`
 - [DailyTxT](https://github.com/PhiTux/DailyTxT) - Encrypted diary Web application to save your personal memories of each day. Includes a search function and encrypted file upload. `MIT` `Docker`
 - [dillinger](https://dillinger.io/) - The last Markdown editor, ever. ([Source Code](https://github.com/joemccann/dillinger)) `MIT` `Nodejs`
